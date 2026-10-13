@@ -1,0 +1,22 @@
+{
+  "keterangan": "Uji dari browser memakai anon key Supabase (sama seperti klien publik), 13 Oktober 2026",
+  "bypass_api": {
+    "insert_header_langsung": "permission denied for table journal_headers",
+    "delete_posted_langsung": "permission denied for table journal_headers",
+    "update_posted_langsung": "permission denied for table journal_headers",
+    "rpc_voucher_tidak_seimbang": "Zero-discrepancy gagal: debit 500000 <> kredit 450000"
+  },
+  "race_condition_BRG05_stok_1": {
+    "kasir_A": "DITOLAK: Stok BRG-05 (Timbangan Lantai Digital) tidak cukup: tersedia 0, keluar 1",
+    "kasir_B": { "trx_id": 11, "stock_after": 0, "elapsed_ms": 2010 },
+    "total_ms_kedua_request_paralel": 2065,
+    "stok_akhir_BRG05": 0
+  },
+  "storno": {
+    "voucher_salah_akun": "BKK-202610-0005",
+    "jurnal_pembalik": "STR-BKK-202610-0005",
+    "storno_kedua": "Jurnal BKK-202610-0005 sudah pernah distorno",
+    "voucher_koreksi": "BKK-202610-0006",
+    "verify_ledger": "13 jurnal, semua valid: true"
+  }
+}
