@@ -1,6 +1,6 @@
-# UTS Pemrograman / Coding Akuntansi — General Ledger, Persediaan Perpetual & Voucher Kas Keluar
+# UTS Pengkodean dan Pemrograman — General Ledger, Persediaan Perpetual & Voucher Kas Keluar
 
-**Bintang Rifqi Maulana DS** · NIM 12030123140235 · S1 Akuntansi FEB Universitas Diponegoro · 13 Oktober 2026
+**Bintang Rifqi Maulana DS** · NIM 12030123140235 · S1 Akuntansi FEB Universitas Diponegoro · Kelas E · 13 Oktober 2026
 Dosen pengampu: Totok Dewayanto
 
 - 🌐 **Demo web (GitHub Pages):** https://bintangrifqi1-bit.github.io/uts-ledger-kas-bintang/
